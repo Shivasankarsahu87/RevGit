@@ -1,0 +1,8 @@
+1. Git Setup and Configuration (First-Time Use):-
+
+Command	Description
+git config --global user.name "Your Name"	Set your global Git username
+git config --global user.email "you@example.com"	Set your global Git email
+git config --global core.editor code	Set default Git editor (e.g., VS Code)
+git config --list	Show current Git config settings
+git version	Check installed Git version

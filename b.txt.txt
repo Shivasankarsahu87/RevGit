@@ -1,0 +1,8 @@
+3. Working with Files (Checking Status & Tracking Changes):-
+
+Command	Description
+git status	Show the status of changes as untracked, modified, or staged
+git add <filename>	Stage a specific file for commit
+git add .	Stage all modified and new files in the directory
+git reset <filename>	Unstage a file (remove from staging area)
+git reset	Unstage all staged files
